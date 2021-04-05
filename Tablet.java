@@ -21,7 +21,7 @@ public class Tablet {
 	}
 	
 	void monthlyPayment(int p, String a, int m) {
-		double mPayment = (double)p/m;
+		double mPayment = (double) p/m;
 		System.out.println("The total month for payment is "+ m + " " + "month");
 		System.out.printf("The total payment "+ a + " " + "per month is "+ "RM%.2f%n", mPayment);
 		
