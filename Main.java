@@ -13,7 +13,7 @@ public class Main {
 		
 		
 		System.out.println("HUAWEI SPECIFICATION");
-		huawei.printSpec("MatePad Pro", "GRAY", 2299, 2019, 10.8, 460, 'Y');
+		huawei.printSpec("MatePad Pro", "GRAY", 2299, 2019, 10.8, 460, 'N');
 		huawei.monthlyPayment(2299, "MatePad Pro", 12);
 		huawei.calPrice(2299, 2, "MatePad Pro");
 		huawei.totalWeight(2, 460, "MatePad Pro");
