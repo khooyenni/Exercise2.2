@@ -18,7 +18,7 @@ public class Main {
 		huawei.calPrice(2299, 2, "MatePad Pro");
 		huawei.totalWeight(2, 460, "MatePad Pro");
 		
-		System.out.println("\n************************************************\n");
+		System.out.println("************************************************");
 		
 		System.out.println("XIAOMI SPECIFICATION");
 		xiaomi.printSpec("Mi Pad 4 Plus", "ROSE GOLD", 1199, 2018, 10.1, 485, 'Y');
@@ -26,7 +26,7 @@ public class Main {
 		xiaomi.calPrice(1199, 3, "Mi Pad 4 Plus");
 		xiaomi.totalWeight(3, 485, "Mi Pad 4 Plus");
 		
-		System.out.println("\n************************************************\n");
+		System.out.println("************************************************");
 		
 		System.out.println("SAMSUNG SPECIFICATION");
 		samsung.printSpec("Galaxy Tab S7", "MYSTIC BLACK", 2999, 2020, 11, 498, 'Y');
@@ -34,7 +34,7 @@ public class Main {
 		samsung.calPrice(2999, 2, "Galaxy Tab S7");
 		samsung.totalWeight(2, 498, "Galaxy Tab S7");
 		
-		System.out.println("\n************************************************\n");
+		System.out.println("************************************************");
 		
 		System.out.println("APPLE SPECIFICATION");
 		apple.printSpec("iPad Pro 11", "SILVER", 3499, 2020, 11, 471, 'Y');
@@ -42,7 +42,7 @@ public class Main {
 		apple.calPrice(3499, 2, "iPad Pro 11");
 		apple.totalWeight(2, 471, "iPad Pro 11");
 		
-		System.out.println("\n************************************************\n");
+		System.out.println("************************************************");
 		
 		
 	}
